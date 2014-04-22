@@ -1,5 +1,9 @@
 # redispump
 
+
+sudo npm install -g git+https://github.com/deancouch/node_redis.git
+
+
 A command line tool to pump arbitrary data to a redis pubsub channel.
 
 ````sh
